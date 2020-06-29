@@ -21,9 +21,13 @@ For details, visit https://developer.huawei.com/consumer/en/doc/development/HMSC
 
 ## More Scenarios
 You deliver an ad advertising your app to the ad platform.
+
 A user taps the ad, and downloads and uses your app.
+
 You use DTM to set the reporting rules for the tag, and release the configuration.
+
 The app automatically updates the configuration and reports data to the Adjust platform. You do not need to change the source code.
+
 You check the monitoring results on the Adjust platform and optimize your ad delivery.
 
 
