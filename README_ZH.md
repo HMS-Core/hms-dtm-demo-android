@@ -1,4 +1,4 @@
-# HmsDtmSample
+# HMS Dynamic Tag Manager(DTM) Sample for Android
 
 中文 | [English](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/master/README.md)
 
