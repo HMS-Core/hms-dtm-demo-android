@@ -36,7 +36,7 @@ For more details, please refer to [Development Guide]（https://developer.huawei
 Android Studio 3.0 or later and JDK 1.7 or later
 
 ## Result
-   <img src="result_1.png" width = 30% height = 30%>
+   <img src="result_1.png" width = 60% height = 60%>
 
 ## License
 The sample code has obtained the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
