@@ -17,7 +17,7 @@ With Dynamic Tag Manager, you can dynamically update tracking tags on a web-base
 
 This demo shows you how to track purchase events and report data, helping you integrate Dynamic Tag Manager quickly. 
 
-For more details, please refer to [Development Guide]（https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907）。
+For more details, please refer to [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907).
 
 ## Getting Started
 1. Register as a developer.
