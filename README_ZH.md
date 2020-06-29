@@ -16,12 +16,12 @@ Dynamic Tag Manager通过Web页面动态更新跟踪代码，轻松完成特定�
 
 本Demo演示如何快速跟踪购买事件并实现数据上报，帮助您尽快集成Dynamic Tag Manager。
 
-详细文档, 参见 [开发指南]（https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050043907）
+详细文档, 参见 [开发指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050043907)
 
 ## 运行步骤
 1. 注册为开发人员。
 
-	注册[华为帐号]（https://developer.huawei.com/consumer/cn/doc/start/20300）。
+	注册[华为帐号](https://developer.huawei.com/consumer/cn/doc/start/20300)
 	
 2. 创建一个应用程序。
 
