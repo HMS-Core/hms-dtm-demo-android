@@ -1,14 +1,13 @@
-# HmsDtmSample
+# HMS Dynamic Tag Manager(DTM) Sample for Android
 
 English | [中文](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/master/README_ZH.md)
 
-
 ## Table of Contents
 
- * [Introduction](#Introduction)
- * [Getting Started](#Getting-started)
+ * [Introduction](#introduction)
+ * [Getting Started](#getting-started)
  * [Supported Environments](#supported-environments)
- * [Result](#Result)
+ * [Result](#result)
  * [License](#license)
 
 
@@ -17,7 +16,7 @@ With Dynamic Tag Manager, you can dynamically update tracking tags on a web-base
 
 This demo shows you how to track purchase events and report data, helping you integrate Dynamic Tag Manager quickly. 
 
-For details, visit https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907.
+For more details, please refer to https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907.
 
 ## Getting Started
 1. Register as a developer.
@@ -36,7 +35,7 @@ For details, visit https://developer.huawei.com/consumer/en/doc/development/HMSC
 Android Studio 3.0 or later and JDK 1.7 or later
 
 ## Result
-   <img src="result_1.png" width = 30% height = 30%>
+   <img src="result_1.png" width = 60% height = 60%>
 
 ## License
 The sample code has obtained the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
