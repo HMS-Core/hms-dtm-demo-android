@@ -21,7 +21,7 @@ Dynamic Tag Manager通过Web页面动态更新跟踪代码，轻松完成特定�
 ## 运行步骤
 1. 注册为开发人员。
 
-	注册[华为帐号]（https://developer.huawei.com/consumer/zh/）。
+	注册[华为帐号](https://developer.huawei.com/consumer/zh/)。
 	
 2. 创建一个应用程序。
 
@@ -35,7 +35,7 @@ Dynamic Tag Manager通过Web页面动态更新跟踪代码，轻松完成特定�
 推荐使用Android Studio 3.0及JDK 1.7以上的版本。
 
 ## 运行结果
-   <img src="result_2.png" width = 30% height = 30%>
+   <img src="result_2.png" width = 60% height = 60%>
 
 ## 许可证
 此示例代码已获得[Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
