@@ -7,7 +7,7 @@
  * [Configuration ](#configuration )
  * [Supported Environments](#supported-environments)
  * [Support](#support)
- * [Sample code](#Sample code)
+ * [Sample Code](#Sample Code)
  * [Result](#Result)
  * [License](#license)
 
@@ -25,7 +25,7 @@ Android Studio 3.0 or later and JDK 1.7 or later
 ## Support
 For more documents about DTM, visit https://developer.huawei.com/consumer/en/doc/android-client-dev-0000001050746031
 
-## Sample code
+## Sample Code
 Follow instructions in the codelab to configure a JSON file on the DTM page in AppGallery Connect and save the file to \HmsDtmSample\app\src\main\assets\containers\.
 The app reports a Purchase event that triggers the HiPurchase event. Therefore, two events are reported.
 
