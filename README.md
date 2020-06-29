@@ -7,7 +7,7 @@ English | [中文](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/
 
  * [Introduction](#Introduction)
  * [More Scenarios ](#More-senarios )
- * [Viewing Reported Events](#View reported events)
+ * [Viewing Reported Events](#View-reported-events)
  * [Supported Environments](#supported-environments)
  * [License](#license)
 
