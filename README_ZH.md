@@ -5,9 +5,9 @@
 ## 目录
 
  * [介绍](#介绍)
- * [更多场景 ](#更多场景 )
- * [上报事件查看](#上报事件查看)
+ * [运行步骤 ](#运行步骤 )
  * [支持的环境](#支持的环境)
+ * [运行结果](#运行结果)
  * [许可证](#许可证)
 
 
@@ -18,18 +18,24 @@ Dynamic Tag Manager通过Web页面动态更新跟踪代码，轻松完成特定�
 
 详细文档, 参见 https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050043907
 
-## 更多场景
-运营人员在广告平台上投放展示广告，推广App。
-用户点击广告，下载并使用App。
-运营人员借助DTM，配置代码上报规则并发布配置。
-App自动更新配置并根据配置上报数据到Adjust，无需修改App源代码。
-运营人员查看Adjust分析平台上的监测结果，优化广告投放策略。
+## 运行步骤
+1. 注册为开发人员。
 
-## 上报事件查看
-   <img src="result_2.png" width = 30% height = 30%>
+	注册[华为帐号]（https://developer.huawei.com/consumer/zh/）。
+	
+2. 创建一个应用程序。
+
+	创建一个应用并启用API。
+	
+3. 构建示例程序。
+
+	要构建此示例，请首先将该示例导入Android Studio（3.X或更高版本）。然后从AppGallery Connect下载该应用程序的agconnect-services.json文件，并将该文件添加到演示的应用程序目录（\app）中。
 
 ## 支持的环境
 推荐使用Android Studio 3.0及JDK 1.7以上的版本。
+
+## 运行结果
+   <img src="result_2.png" width = 30% height = 30%>
 
 ## 许可证
 此示例代码已获得[Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
