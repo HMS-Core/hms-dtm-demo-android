@@ -21,10 +21,13 @@ For details, visit https://developer.huawei.com/consumer/en/doc/development/HMSC
 
 ## Getting Started
 1. Register as a developer.
+
 Register a [HUAWEI account](https://developer.huawei.com/consumer/en/).
 2. Create an app.
+
 Create an app and enable APIs.
 3. Build the demo.
+
 To build this demo, please first import the demo to Android Studio (3.X or later). Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\app) of the demo. 
 
 ## Supported Environments
