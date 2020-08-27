@@ -2,7 +2,6 @@
 
 English | [中文](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/master/README_ZH.md)
 
-
 ## Table of Contents
 
  * [Introduction](#Introduction)
@@ -10,7 +9,6 @@ English | [中文](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/
  * [Supported Environments](#supported-environments)
  * [Result](#Result)
  * [License](#license)
-
 
 ## Introduction
 With Dynamic Tag Manager, you can dynamically update tracking tags on a web-based UI to track specific events and report data to third-party analytics platforms, tracking your marketing activity data as needed.
