@@ -1,5 +1,7 @@
 # HMS Dynamic Tag Manager(DTM) Sample for Android
 
+[![hms](https://img.shields.io/badge/hms-dtm-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
+
 中文 | [English](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/master/README.md)
 
 ## 目录
@@ -19,17 +21,19 @@ Dynamic Tag Manager通过Web页面动态更新跟踪代码，轻松完成特定�
 详细文档参见 [开发指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050043907)。
 
 ## 运行步骤
-1. 注册为开发人员。
+在开发应用前，需要在AppGallery Connect中配置相关信息。
 
-	注册[华为帐号](https://developer.huawei.com/consumer/cn/doc/start/20300)。
-	
-2. 创建一个应用程序。
+1. 注册成为华为开发者。
 
-	创建一个应用并启用API。
+具体方法请参见[账号注册认定](https://developer.huawei.com/consumer/cn/doc/20300)。
+
+2. 创建应用。
+
+具体方法请参见创建[创建您的AGC项目](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605371607)以及[在项目下添加应用](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605413814)。
 	
 3. 构建示例程序。
 
-	要构建此示例，请首先将该示例导入Android Studio（3.X或更高版本）。然后从AppGallery Connect下载该应用程序的agconnect-services.json文件，并将该文件添加到演示的应用程序目录（\app）中。
+要构建此示例，请首先将该示例导入Android Studio（3.X或更高版本）。然后从AppGallery Connect下载该应用程序的agconnect-services.json文件，并将该文件添加到演示的应用程序目录（\app）中。
 
 ## 支持的环境
 推荐使用Android Studio 3.0及JDK 1.7以上的版本。
