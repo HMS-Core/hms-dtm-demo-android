@@ -22,12 +22,15 @@ For more details, please refer to [Development Guide](https://developer.huawei.c
 ## Getting Started
 Before you start developing an app, configure your app information in AppGallery Connect.
 1. Register as a developer.
+
 Register a [HUAWEI account](https://developer.huawei.com/consumer/en/doc/20300).
 
 2. Create an app.
+
 Create an app by following instructions in [Creating an AppGallery Connect Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605371607) and [Adding an Web App to the Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started-web#h1-1594605413814).
 	
 3. Build the demo.
+
 To build this demo, please first import the demo to Android Studio (3.X or later). Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\app) of the demo. 
 
 ## Supported Environments
