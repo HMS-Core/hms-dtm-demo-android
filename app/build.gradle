@@ -25,8 +25,8 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation "com.huawei.hms:hianalytics:5.0.1.300"
-    implementation "com.huawei.hms:dtm-api:5.0.0.302"
+    implementation "com.huawei.hms:hianalytics:5.0.4.300"
+    implementation "com.huawei.hms:dtm-api:5.0.4.300"
 	implementation 'androidx.appcompat:appcompat:1.0.0-alpha1'
 }
 apply plugin: 'com.huawei.agconnect'
