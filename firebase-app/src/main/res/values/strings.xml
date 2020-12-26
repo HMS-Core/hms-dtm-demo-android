@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HmsDtmSample</string>
+    <string name="str_test_firebase">Test Firebase</string>
+</resources>
