@@ -1,8 +1,8 @@
 # HMS Dynamic Tag Manager(DTM) Sample for Android
 
-[![hms](https://img.shields.io/badge/hms-dtm-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
+[![hms](https://img.shields.io/badge/hms-dtm-brightgreen)](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/introduction-0000001050043907) 
 
-中文 | [English](https://github.com/HMS-Core/hms-dtm-demo-android-studio/blob/master/README.md)
+中文 | [English](https://git.huawei.com/HMS_Core_SPDT/WiseAnalytics/DTM/DTMSDK_Android_CodeLab/blob/master/README.md)
 
 ## 目录
 

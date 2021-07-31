@@ -17,6 +17,7 @@
 package com.huawei.hmsdtmsample;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -43,6 +44,13 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 sendEvent();
+            }
+        });
+
+        findViewById(R.id.webViewButton).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, WebViewActivity.class));
             }
         });
     }
