@@ -34,7 +34,7 @@ dependencies {
     implementation 'com.google.android.material:material:1.2.1'
 
     implementation "com.huawei.hms:hianalytics:5.3.1.300"
-    implementation "com.huawei.hms:dtm-api:6.0.0.300"
+    implementation "com.huawei.hms:dtm-api:6.1.0.301"
     // ADD Firebase SDK
     implementation 'com.google.firebase:firebase-core:18.0.0'
 
