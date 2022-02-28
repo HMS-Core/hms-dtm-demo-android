@@ -1,0 +1,4 @@
+rootProject.name = "dtm-sample-kotlin"
+include ':app'
+include ':adjust-app'
+include ':firebase-app'

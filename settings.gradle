@@ -1,4 +1,0 @@
-include ':adjust-app'
-include ':firebase-app'
-include ':app'
-rootProject.name='HmsDtmSample'
