@@ -30,7 +30,9 @@ Register a [HUAWEI account](https://developer.huawei.com/consumer/en/doc/start/r
 Create an app by following instructions in [Creating an AppGallery Connect Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started#h1-1587521853252) and [Adding an Web App to the Project](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-get-started#h1-1587521946133).
 3. Build the demo.
 
-To build this demo, please first import the demo to Android Studio (3.X or later). Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\app) of the demo. 
+(1) To build this demo, please first import the demo to Android Studio (3.X or later). Then download the agconnect-services.json file of the app from AppGallery Connect, and add the file to the app directory (\app) of the demo. 
+
+(2) Replace **applicationid** in the app-level **build.gradle** file with the package name of your app.
 
 ## Supported Environments
 Android Studio 3.0 or later and JDK 1.7 or later

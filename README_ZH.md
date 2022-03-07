@@ -32,7 +32,9 @@ Dynamic Tag Manager 通过 Web 页面动态更新跟踪代码，轻松完成特�
 具体方法请参见 [创建您的AGC项目](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-get-started#h1-1587476272328) 以及 [在项目下添加应用](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-get-started#h1-1587476998161)。
 3. 构建示例程序。
 
-要构建此示例，请首先将该示例导入 Android Studio（3.X 或更高版本）。然后从 AppGallery Connect 下载该应用程序的 agconnect-services.json 文件，并将该文件添加到演示的应用程序目录（\app）中。
+(1) 要构建此示例，请首先将该示例导入 Android Studio（3.X 或更高版本）。然后从 AppGallery Connect 下载该应用程序的 agconnect-services.json 文件，并将该文件添加到演示的应用程序目录（\app）中。
+
+(2) 修改示例工程中应用级"build.gradle"文件中的"applicationid"为您自己的应用包名。
 
 ## 支持的环境
 推荐使用 Android Studio 3.0 及 JDK 1.7 以上的版本。
