@@ -2,7 +2,7 @@
 
 [![hms](https://img.shields.io/badge/hms-dtm-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050043907) 
 
-English | [中文](https://git.huawei.com/HMS_Core_SPDT/WiseAnalytics/DTM/DTMSDK_Android_CodeLab/blob/master/README_ZH.md)
+English | [中文](README_ZH.md)
 
 ## Table of Contents
 
